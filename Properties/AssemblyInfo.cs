@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Watchtower Test Framework")]
 [assembly: AssemblyDescription("Watchtower Test Framework")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Shyft Analytics")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Product QA")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

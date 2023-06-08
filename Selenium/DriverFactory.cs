@@ -115,8 +115,8 @@ namespace Framework.Selenium
             caps.SetCapability("browserName", AppConfig.browserName);
             caps.SetCapability("platform", AppConfig.platform);
             caps.SetCapability("version", AppConfig.version);
-            caps.SetCapability("username", "cgrandoitAtShyft");
-            caps.SetCapability("accessKey", "4a7380fb-20b3-4fe2-a053-41d5ffc4c075");
+            caps.SetCapability("username", "cgrandoit");
+            caps.SetCapability("accessKey", "");
             return new RemoteWebDriver(new Uri("http://ondemand.saucelabs.com:80/wd/hub"), caps, TimeSpan.FromSeconds(600));
         }
 
